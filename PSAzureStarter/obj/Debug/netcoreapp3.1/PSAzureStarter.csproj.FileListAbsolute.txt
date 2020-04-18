@@ -54,9 +54,6 @@ C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\runtimes\unix\li
 C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.csprojAssemblyReference.cache
-C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.csproj.CoreCompileInputs.cache
-C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.MvcApplicationPartsAssemblyInfo.cs
-C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.MvcApplicationPartsAssemblyInfo.cache
 C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.RazorAssemblyInfo.cache
 C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.RazorAssemblyInfo.cs
 C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.AssemblyInfoInputs.cache
@@ -82,3 +79,21 @@ C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\staticwebassets\
 C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.dll
 C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.pdb
 C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.genruntimeconfig.cache
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\Connected Services\Application Insights\ConnectedService.json
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\source\PSAzureStarter\PSAzureStarter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.csproj.CoreCompileInputs.cache
+C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.MvcApplicationPartsAssemblyInfo.cs
+C:\source\PSAzureStarter\PSAzureStarter\obj\Debug\netcoreapp3.1\PSAzureStarter.MvcApplicationPartsAssemblyInfo.cache

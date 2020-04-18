@@ -27,6 +27,11 @@ namespace PSAzureStarter.Controllers
             return View("Index", _configuration["Greeting"]);
         }
 
+        public IActionResult Test()
+        {
+            throw new InvalidOperationException("This feature is not yet added!");
+        }
+
         public IActionResult Privacy()
         {
             return View();
