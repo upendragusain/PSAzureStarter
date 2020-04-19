@@ -271,3 +271,5 @@ PSAzureStarter/obj/Debug/netcoreapp3.1/PSAzureStarter.csprojAssemblyReference.ca
 *.dll
 
 *.cache
+
+PSAzureStarter/obj/Debug/netcoreapp3.1/PSAzureStarter.csproj.FileListAbsolute.txt
